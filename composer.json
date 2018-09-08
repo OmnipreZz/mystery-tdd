@@ -1,0 +1,15 @@
+{
+    "name": "omni/mystery-tdd",
+    "scripts": {
+        "test": "./vendor/bin/phpunit ./tests"
+    },
+    "authors": [
+        {
+            "name": "Geoffrey",
+            "email": "geoffrey.frioli@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7.3"
+    }
+}
